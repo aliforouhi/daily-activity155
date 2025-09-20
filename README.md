@@ -1,4 +1,4 @@
-# daily_update.py
+# daily_update.p
 from datetime import datetime
 
 numbers = [1, 2, 3, 4, 5]
